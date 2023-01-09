@@ -11,7 +11,7 @@ html, body{
 }
 
 .jumbotron{
-    background-image: url(../img/240_F_540418492_fnf9SoeUhKyHoJOoygvcC1cjVyjlpg6i.jpg);
+    background-image: url(240_F_540418492_fnf9SoeUhKyHoJOoygvcC1cjVyjlpg6i.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1px;
@@ -192,7 +192,7 @@ span{
     width: 90px;
     padding: 10px;
     border-radius: 10px;
-    background-color: #222;
+    background-color: whitesmoke;
 }
  button:active{
     transform: scale(1.1);
